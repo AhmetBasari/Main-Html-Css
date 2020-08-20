@@ -1,0 +1,138 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+
+}
+
+header {
+    background-color: #3b5999;
+    height: 80px;
+    padding: 0;
+}
+
+#ustsol {
+
+    width: 55%;
+    display: inline-block;
+    height: 80px;
+    padding: 0;
+
+}
+
+#ustsag {
+    width: 44%;
+    height: 80px;
+    background-color: #3b5999;
+    float: right;
+    padding: 0;
+}
+
+#img1 {
+    width: auto;
+    height: 80px;
+}
+
+#resimdiv {
+    width: 212.8px;
+    height: 100%;
+
+    margin: auto;
+
+}
+
+.ustsagclass {
+    margin-top: 25px;
+    display: inline-block;
+    width: 100px;
+    height: 70px;
+
+}
+
+.firstinput {
+    width: 90px;
+}
+
+.ustlaber {
+    color: white;
+}
+
+.logincolor {
+    background-color: #3b5999;
+}
+
+#soldiv {
+    width: 56%;
+    height: 700px;
+    background-color: #f4f5f9;
+    float: left;
+    margin: 0;
+}
+
+#leftdiv {
+    width: 450px;
+    height: 400px;
+    background-color: #f4f5f9;
+    position: relative;
+    margin-left: 280px;
+    margin-top: 50px;
+
+}
+
+#leftfacetext {
+    font-size: 23px;
+    color: #3745e5;
+}
+
+#peopleimg {
+    margin-top: 40px;
+    width: 400px;
+    height: 180px;
+}
+
+
+
+
+
+
+
+#sagdiv {
+    width: 43.7%;
+    height: 700px;
+    background-color: #f4f5f9;
+    display: inline-block;
+    margin-left: -10px;
+    color:royalblue;
+}
+
+#rightdiv {
+    width: 50%;
+    background-color: #f4f5f9;
+    margin-left: 20px;
+}
+
+
+
+strong {
+    color: blue;
+}
+.inputlast{
+    background: green;
+    color: white;
+    padding: 10px; 
+    margin-left:100px;
+}
+footer {
+    margin-top: 30px;
+    width: 60%;
+    height:300px;
+    margin: auto;
+    background-color: white;
+}
+.last{
+    display: inline-block
+}
+

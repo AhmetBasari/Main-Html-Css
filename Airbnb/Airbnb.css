@@ -1,0 +1,47 @@
+div{
+    width: 1000px;
+}
+
+#HoMe {
+     border-top: 2px solid grey;
+     border-bottom: 2px solid grey;
+     
+
+ }
+
+ #firstd {
+     display: inline-block;
+     width: 30%;
+ }
+
+ input {
+     margin-top: 2px;
+ }
+
+ #rent {
+     margin-top: -10px;
+     font-size: 16px;
+ }
+
+ #AAA {
+     width: 23%;
+     display: inline-block;
+     margin-top: -25px;
+     margin-right: 5px;
+ }
+
+ #BBB {
+     width: 11%;
+     display: inline-block;
+     margin-top: 10px;
+     margin-left: 10px;
+
+ }
+#CCC{
+    margin-top: 50px;
+}
+.ddd{
+    display: inline-block;
+    margin-left: 8px;
+    
+}

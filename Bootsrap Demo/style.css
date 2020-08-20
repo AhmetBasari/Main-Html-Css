@@ -1,0 +1,19 @@
+.navbar-brand {
+    color: brown !important;
+    font-size: 30px !important;
+}
+
+.my-sm-0 {
+    background: #00fffa !important;
+}
+
+.navbar {
+    height: 80px !important;
+}
+
+#clear {
+    clear: both !important;
+}
+p{
+    color:chocolate;
+}
